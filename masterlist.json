@@ -1,0 +1,7225 @@
+{
+  "last_verified": "2026-09-27T18:55:56.213029+00:00",
+  "coverage": "FULL",
+  "statistics": {
+    "bitvavo_assets": 427,
+    "gate_europe_assets": 195,
+    "both_exchanges": 149,
+    "unique_assets": 473
+  },
+  "assets": [
+    {
+      "symbol": "0G",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "0G-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "0G_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "0G_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "1INCH",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "1INCH-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "1INCH_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "2Z",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "2Z-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "2Z_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "2Z_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "A",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "A-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AAVE",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AAVE-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "AAVE_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "AAVE_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ACE",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ACE-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ACH",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ACH-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ACH_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ACH_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "ACM",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ACM_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ACM_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ACT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ACT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ACU",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ACU-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ACX",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ACX-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ADA",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ADA-EUR"
+        },
+        {
+          "exchange": "BITVAVO",
+          "pair": "ADA-USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ADA_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ADA_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "ADX",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ADX-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AERO",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AERO-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AEVO",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AEVO-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AFC",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "AFC_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "AFC_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AGI",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AGI-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AGLD",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AGLD-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AI",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AI-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AIOZ",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AIOZ-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AIXBT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AIXBT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AKT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AKT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ALGO",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ALGO-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ALGO_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ALGO_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ALICE",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ALICE-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ALIGN",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ALIGN-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ALLO",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ALLO-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ALLO_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ALLO_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "ALT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ALT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AMP",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AMP-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "AMP_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "AMP_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ANIME",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ANIME-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ANKR",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ANKR-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ANKR_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ANKR_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "APE",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "APE-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "APE_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "APE_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "API3",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "API3-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "APT",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "APT-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "APT_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "APT_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "ARB",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ARB-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ARB_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ARB_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ARG",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ARG_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ARG_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ARK",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ARK-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ARK_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ARK_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "ARKM",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ARKM-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ARKM_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ARKM_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "ARPA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ARPA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ARX",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ARX-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ASR",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ASR_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ASR_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ASTER",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ASTER-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ASTR",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ASTR-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ASTR_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ASTR_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "ATH",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ATH-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ATH_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ATH_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "ATM",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ATM_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ATM_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "ATOM",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ATOM-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ATOM_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ATOM_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AUCTION",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AUCTION-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AUDIO",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AUDIO-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "AUDIO_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "AUDIO_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AVA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AVA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AVAX",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AVAX-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "AVAX_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "AVAX_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AVNT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AVNT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AXL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AXL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AXS",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AXS-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AZTEC",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AZTEC-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BABY",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BABY-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BABYDOGE",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BABYDOGE_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BABYDOGE_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "BANANA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BANANA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BAND",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BAND-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BARD",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BARD_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BARD_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BAT",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BAT-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BAT_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "BCH",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BCH-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BCH_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BCH_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "BEAM",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BEAM-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BEL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BEL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BENQI",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BENQI_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BENQI_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "BERA",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BERA_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BERA_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "BICO",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BICO-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BIGTIME",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BIGTIME-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BIGTIME_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BIGTIME_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BILL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BILL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BIO",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BIO-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BIRB",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BIRB-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BLAST",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BLAST_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BLAST_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BLEND",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BLEND-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BLUR",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BLUR-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BLUR_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "BNB",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BNB-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BNB_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BNB_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BNT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BNT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BOB",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BOB-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BOBA",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BOBA_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BOBA_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BOME",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BOME-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BONK",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BONK-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BONK_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BONK_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BRETT",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BRETT-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BRETT_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BRETT_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "BREV",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BREV-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "BSV",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BSV_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BSV_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "BTC",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BTC-EUR"
+        },
+        {
+          "exchange": "BITVAVO",
+          "pair": "BTC-USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BTC_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BTC_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "BTT",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "BTT-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BTT_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BTT_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "C",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "C-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "C98",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "C98-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CAKE",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CAKE-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CAKE_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CAKE_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "CAP",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CAP-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CARV",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CARV-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CAT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CAT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CATI",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CATI-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CC",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CC-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CC_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CC_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "CELO",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CELO-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CELO_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CELO_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "CELR",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CELR-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CETUS",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CETUS-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CETUS_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CETUS_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "CFG",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CFG-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CFG_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CFG_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "CFX",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CFX_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CFX_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "CHILLGUY",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CHILLGUY-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CHIP",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CHIP-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CHR",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CHR-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CHZ",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CHZ-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CHZ_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CHZ_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CITY",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CITY_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CITY_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CKB",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CKB_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CKB_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "CNPY",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CNPY-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "COMP",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "COMP-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "COMP_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "COMP_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CORE",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CORE_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CORE_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "COTI",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "COTI-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "COW",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "COW-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CPOOL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CPOOL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CRO",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CRO-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CRO_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CRO_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "CROSS",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CROSS-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CRV",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CRV-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CRV_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CRV_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CSPR",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CSPR-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CSPR_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CSPR_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CTC",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CTC-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CTK",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CTK-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CTR",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CTR-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CTSI",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CTSI-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CTSI_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CTSI_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CVC",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CVC-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CVX",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CVX-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CXT",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CXT_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "CXT_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "CYBER",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CYBER-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "DATA",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "DATA_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "DATAIP",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "DATAIP-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "DBR",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "DBR-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "DEEP",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "DEEP-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "DEGEN",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "DEGEN-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "DEXE",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "DEXE_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "DEXE_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "DGB",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "DGB-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "DGB_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "DGB_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "DIA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "DIA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "DODO",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "DODO-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "DODO_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "DODO_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "DOGE",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "DOGE-USDC"
+        },
+        {
+          "exchange": "BITVAVO",
+          "pair": "DOGE-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "DOGE_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "DOGE_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "DOGS",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "DOGS-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "DOS",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "DOS-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "DOT",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "DOT-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "DOT_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "DOT_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "DRIFT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "DRIFT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "DUSK",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "DUSK-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "DYDX",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "DYDX-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "DYDX_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "DYDX_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "DYM",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "DYM-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "EDEN",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "EDEN-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "EDGE",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "EDGE-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "EDU",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "EDU-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "EGLD",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "EGLD-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "EGLD_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "EGLD_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "EIGEN",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "EIGEN-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "EIGEN_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "EIGEN_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ELSA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ELSA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ENA",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ENA-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ENA_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ENA_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ENJ",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ENJ-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ENS",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ENS-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ENS_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ENS_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ENSO",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ENSO-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "EPIC",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "EPIC-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ESP",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ESP-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ETC",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ETC-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ETC_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ETC_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "ETH",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ETH-USDC"
+        },
+        {
+          "exchange": "BITVAVO",
+          "pair": "ETH-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ETH_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ETH_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "ETHFI",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ETHFI-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ETHFI_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ETHFI_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "EUL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "EUL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "EURC",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "EURC-EUR"
+        },
+        {
+          "exchange": "BITVAVO",
+          "pair": "EURC-USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "EURCV",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "EURCV-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "EUROP",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "EUROP-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "F",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "F-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "FARTCOIN",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "FARTCOIN-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "FET",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "FET-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "FET_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "FET_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "FIDA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "FIDA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "FIL",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "FIL-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "FIL_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "FIL_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "FLOCK",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "FLOCK-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "FLOKI",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "FLOKI-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "FLOKI_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "FLOKI_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "FLOW",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "FLOW_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "FLOW_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "FLR",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "FLR-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "FLR_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "FLR_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "FLUID",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "FLUID-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "FLUX",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "FLUX-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "FOLD",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "FOLD-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "FORM",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "FORM-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "FRAX",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "FRAX-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "FTT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "FTT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "FUEL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "FUEL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "FUN",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "FUN-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "G",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "G-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "GALA",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "GALA-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "GALA_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "GALA_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "GALFAN",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "GALFAN_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "GALFAN_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "GAS",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "GAS-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "GIGA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "GIGA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "GITCOIN",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "GITCOIN_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "GITCOIN_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "GLM",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "GLM-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "GLMR",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "GLMR-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "GMT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "GMT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "GMX",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "GMX-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "GMX_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "GMX_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "GNO",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "GNO-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "GNO_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "GNO_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "GNS",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "GNS-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "GOAT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "GOAT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "GRAM",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "GRAM-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "GRAM_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "GRAM_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "GRASS",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "GRASS-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "GRASS_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "GRASS_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "GROVE",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "GROVE-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "GRT",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "GRT-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "GRT_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "GRT_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "GTC",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "GTC-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "GWEI",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "GWEI-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "HAEDAL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "HAEDAL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "HBAR",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "HBAR-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "HBAR_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "HBAR_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "HEI",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "HEI-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "HEI_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "HEI_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "HFT",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "HFT-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "HFT_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "HFT_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "HMSTR",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "HMSTR-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "HMSTR_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "HMSTR_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "HNT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "HNT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "HOME",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "HOME-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "HOT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "HOT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "HUMA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "HUMA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "HYPE",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "HYPE-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "HYPE_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "HYPE_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "ICNT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ICNT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ICP",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ICP-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ICP_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ICP_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "ICX",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ICX-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ID",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ID-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ID_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ID_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "IKA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "IKA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ILV",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ILV-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "IMU",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "IMU-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "IMX",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "IMX-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "IMX_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "IMX_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "INIT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "INIT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "INJ",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "INJ-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "INJ_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "INJ_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "INTER",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "INTER_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "INTER_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "INX",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "INX-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "IO",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "IO-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "IO_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "IO_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "IOST",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "IOST-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "IOTA",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "IOTA_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "IOTX",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "IOTX_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "IOTX_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "IQ",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "IQ-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "IRYS",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "IRYS-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "JASMY",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "JASMY-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "JST",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "JST_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "JST_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "JTO",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "JTO-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "JTO_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "JTO_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "JUP",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "JUP-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "JUP_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "JUV",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "JUV_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "JUV_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "KAIA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "KAIA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "KAITO",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "KAITO-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "KAITO_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "KAITO_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "KAS",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "KAS-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "KAT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "KAT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "KERNEL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "KERNEL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "KITE",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "KITE-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "KMNO",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "KMNO-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "KMNO_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "KMNO_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "KNC",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "KNC-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "KSM",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "KSM-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "KSM_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "KSM_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "LA",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LA_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LA_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "LAPTOP",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "LAPTOP-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "LAYER",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "LAYER-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "LAZIO",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LAZIO_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LAZIO_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "LDO",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "LDO-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LDO_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LDO_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "LEO",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LEO_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LEO_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "LIGHTER",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "LIGHTER-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "LINEA",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "LINEA-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LINEA_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LINEA_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "LINK",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "LINK-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LINK_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LINK_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "LISTA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "LISTA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "LMWR",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "LMWR-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "LPT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "LPT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "LQTY",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "LQTY-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "LRC",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "LRC-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LRC_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LRC_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "LSK",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "LSK-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "LTC",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "LTC-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LTC_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LTC_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "LUMIA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "LUMIA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "LUNA",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "LUNA-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LUNA_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LUNA_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "LUNA2",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "LUNA2-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "LUNC",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LUNC_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LUNC_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MAGIC",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MAGIC-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MANA",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MANA-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "MANA_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "MANA_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MANTA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MANTA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MANTRA",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MANTRA-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "MANTRA_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "MANTRA_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MASK",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MASK-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "MASK_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "MASK_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "MAV",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MAV-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MAVIA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MAVIA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ME",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ME-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MEGA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MEGA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MEME",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MEME-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MENGO",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "MENGO_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "MENGO_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MERL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MERL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MET",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MET-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "METIS",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "METIS-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MEW",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MEW-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MIOTA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MIOTA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MIRA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MIRA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MLN",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MLN-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MMT",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MMT-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "MMT_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "MMT_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "MNT",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "MNT_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "MNT_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MOCA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MOCA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MOG",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MOG-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "MOG_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "MOG_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MON",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MON-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "MON_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "MON_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MOODENG",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MOODENG-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MORPHO",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MORPHO-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MOVE",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MOVE-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MOVR",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MOVR-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "MTL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "MTL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "NAP",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "NAP_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "NAP_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "NEAR",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "NEAR-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "NEAR_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "NEAR_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "NEIRO",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "NEIRO-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "NEO",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "NEO-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "NEO_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "NEO_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "NES",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "NES-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "NEWT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "NEWT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "NEX",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "NEX-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "NIGHT",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "NIGHT_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "NIGHT_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "NIL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "NIL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "NMR",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "NMR-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "NOM",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "NOM-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "NOS",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "NOS-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "NOT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "NOT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "NPC",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "NPC-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "O",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "O-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "OFC",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "OFC_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "OFC_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "OGN",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "OGN-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ONDO",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ONDO-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ONDO_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ONDO_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ONG",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ONG-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ONT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ONT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "OP",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "OP-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "OP_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "OP_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "OPEN",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "OPEN-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ORCA",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ORCA-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ORCA_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ORCA_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "OSMO",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "OSMO-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "PARTI",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PARTI-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "PEAQ",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PEAQ-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "PENDLE",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PENDLE-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PENDLE_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PENDLE_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "PENGU",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PENGU-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PENGU_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PENGU_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "PEOPLE",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PEOPLE-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "PEPE",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PEPE-USDC"
+        },
+        {
+          "exchange": "BITVAVO",
+          "pair": "PEPE-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PEPE_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PEPE_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "PHA",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PHA-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PHA_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PHA_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "PIXEL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PIXEL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "PLUME",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PLUME-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PLUME_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PLUME_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "PNUT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PNUT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "POL",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "POL-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "POL_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "POL_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "POND",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "POND-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "PONKE",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PONKE-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "POPCAT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "POPCAT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "POR",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "POR_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "POR_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "PORTAL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PORTAL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "POWR",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "POWR-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "POWR_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "POWR_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "PROM",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PROM-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "PROMPT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PROMPT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "PROVE",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PROVE-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PROVE_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PROVE_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "PSG",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PSG_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PSG_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "PTB",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PTB-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "PUFFER",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PUFFER-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "PUMP",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PUMP-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "PUNDIX",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PUNDIX-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PUNDIX_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PUNDIX_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "PYTH",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PYTH-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "QKC",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "QKC-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "QNT",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "QNT-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "QNT_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "QNT_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "QTUM",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "QTUM_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "QTUM_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "QUID",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "QUID-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "RAD",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "RAD-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "RARE",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "RARE-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "RAY",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "RAY-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "RAY_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "RAY_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "RE",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "RE-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "RECALL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "RECALL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "RED",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "RED-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "RENDER",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "RENDER-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "RENDER_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "RENDER_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "REQ",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "REQ-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "REQ_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "REQ_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "REZ",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "REZ-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "RLC",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "RLC-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ROBO",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ROBO-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "RON",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "RON-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ROSE",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ROSE-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "RPL",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "RPL-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "RPL_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "RPL_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "RSR",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "RSR-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "RSR_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "RSR_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "RUNE",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "RUNE-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "RVN",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "RVN_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "RVN_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "S",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "S-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "S_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "S_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SAFE",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SAFE-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SAFE_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SAFE_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SAGA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SAGA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SAND",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SAND-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SAND_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SAND_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "SANTOS",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SANTOS_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SANTOS_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "SAPIEN",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SAPIEN-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SAPIEN_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SAPIEN_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SC",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SC_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SC_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SCR",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SCR-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SEI",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SEI-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SEI_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SEI_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "SENT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SENT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SFP",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SFP-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SHELL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SHELL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SHIB",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SHIB-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SHIB_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SHIB_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SIGN",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SIGN-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SKL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SKL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SKY",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SKY-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SLP",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SLP-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SLX",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SLX-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SNX",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SNX-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SNX_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SNX_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SOL",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SOL-USDC"
+        },
+        {
+          "exchange": "BITVAVO",
+          "pair": "SOL-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SOL_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SOL_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SOLV",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SOLV-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SOMI",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SOMI-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SOON",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SOON-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SOSO",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SOSO-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SPK",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SPK-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SPURS",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SPURS_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SPURS_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SPX",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SPX-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SQD",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SQD-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SSV",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SSV-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "STO",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "STO-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "STRAX",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "STRAX-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "STRK",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "STRK-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "STRK_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "STRK_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "STX",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "STX-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "STX_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "STX_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "SUI",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SUI-EUR"
+        },
+        {
+          "exchange": "BITVAVO",
+          "pair": "SUI-USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SUI_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SUI_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "SUPER",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SUPER-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SUPER_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SUPER_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "SUSHI",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SUSHI-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SWEAT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SWEAT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SWELL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SWELL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SXT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SXT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "SYN",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SYN-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SYN_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SYN_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "SYRUP",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "SYRUP-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "T",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "T-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "TAI",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TAI-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "TAIKO",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TAIKO-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "TAO",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TAO-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "TAO_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "TAO_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "THE",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "THE-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "THETA",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "THETA_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "THETA_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "THQ",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "THQ-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "TIA",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TIA-USDC"
+        },
+        {
+          "exchange": "BITVAVO",
+          "pair": "TIA-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "TIA_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "TIA_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "TLM",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TLM-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "TNSR",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TNSR-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "TOSHI",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TOSHI-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "TOWNS",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TOWNS-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "TOWNS_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "TOWNS_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "TRA",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "TRA_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "TRA_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "TRAC",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TRAC-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "TRB",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TRB-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "TRB_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "TRB_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "TREAD",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TREAD-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "TREE",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TREE-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "TRIA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TRIA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "TRUMP",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TRUMP-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "TRUST",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TRUST-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "TRX",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TRX-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "TRX_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "TRX_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "TURBO",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TURBO-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "TWT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "TWT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "U",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "U-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "UMA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "UMA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "UNI",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "UNI-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "UNI_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "UNI_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "UP",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "UP-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "USDC",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "USDC-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "USDC_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "USDCV",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "USDCV-USDC"
+        },
+        {
+          "exchange": "BITVAVO",
+          "pair": "USDCV-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "USELESS",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "USELESS-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "VANA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "VANA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "VELO",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "VELO-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "VELO_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "VELO_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "VERONA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "VERONA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "VET",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "VET-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "VET_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "VET_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "VIRTUAL",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "VIRTUAL-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "VIRTUAL_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "VIRTUAL_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "VSN",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "VSN-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "VTHO",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "VTHO-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "VVV",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "VVV-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "W",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "W-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "W_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "W_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "WAL",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "WAL-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "WAL_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "WAL_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "WAXP",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "WAXP-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "WCT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "WCT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "WELL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "WELL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "WIF",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "WIF-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "WIN",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "WIN-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "WIN_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "WIN_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "WLD",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "WLD-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "WLD_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "WLD_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "WLFI",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "WLFI-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "WLFI_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "WLFI_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "WMTX",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "WMTX-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "WOO",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "WOO-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "WOO_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "WOO_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "XAI",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "XAI-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "XAN",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "XAN-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "XDC",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "XDC-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "XLM",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "XLM-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "XLM_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "XLM_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "XMN",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "XMN-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "XPL",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "XPL-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "XPL_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "XPL_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "XRP",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "XRP-USDC"
+        },
+        {
+          "exchange": "BITVAVO",
+          "pair": "XRP-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "XRP_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "XRP_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "XTZ",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "XTZ-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "XTZ_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "XTZ_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "XVG",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "XVG-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "XVS",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "XVS_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "XVS_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "XYO",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "XYO-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "YB",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "YB-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "YFI",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "YFI-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "YGG",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "YGG-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "YGG_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "YGG_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "ZAMA",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ZAMA-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ZAMA_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ZAMA_USDC"
+        }
+      ]
+    },
+    {
+      "symbol": "ZBCN",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ZBCN-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ZBT",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ZBT-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ZBT_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ZBT_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ZEN",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ZEN-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ZETA",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ZETA-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ZETA_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ZETA_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ZEUS",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ZEUS-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ZEUS_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ZEUS_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ZIG",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ZIG-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ZIL",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ZIL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ZK",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ZK-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ZK_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ZK_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ZKC",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ZKC-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ZKJ",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ZKJ-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ZKP",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ZKP-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ZORA",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ZORA-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ZRC",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ZRC-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ZRO",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ZRO-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "ZRX",
+      "exchanges": [
+        "BITVAVO",
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "ZRX-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ZRX_USDC"
+        }
+      ]
+    }
+  ]
+}
