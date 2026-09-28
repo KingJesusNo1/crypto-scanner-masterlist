@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-09-28T06:48:19.125447+00:00",
+  "last_verified": "2026-09-28T15:22:49.886241+00:00",
   "coverage": "FULL",
   "statistics": {
-    "bitvavo_assets": 427,
+    "bitvavo_assets": 428,
     "gate_europe_assets": 195,
     "both_exchanges": 149,
-    "unique_assets": 473
+    "unique_assets": 474
   },
   "assets": [
     {
@@ -6791,6 +6791,18 @@
         {
           "exchange": "BITVAVO",
           "pair": "XDC-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "XDP",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "XDP-EUR"
         }
       ]
     },
