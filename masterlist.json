@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-09-29T08:24:26.353102+00:00",
+  "last_verified": "2026-09-29T15:45:39.692334+00:00",
   "coverage": "FULL",
   "statistics": {
-    "bitvavo_assets": 428,
+    "bitvavo_assets": 429,
     "gate_europe_assets": 195,
     "both_exchanges": 149,
-    "unique_assets": 474
+    "unique_assets": 475
   },
   "assets": [
     {
@@ -2081,6 +2081,18 @@
         {
           "exchange": "BITVAVO",
           "pair": "DRIFT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "DRV",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "DRV-EUR"
         }
       ]
     },
