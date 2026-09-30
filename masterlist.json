@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-09-30T13:38:36.777475+00:00",
+  "last_verified": "2026-09-30T19:14:34.441943+00:00",
   "coverage": "FULL",
   "statistics": {
     "bitvavo_assets": 430,
-    "gate_europe_assets": 195,
-    "both_exchanges": 149,
-    "unique_assets": 476
+    "gate_europe_assets": 200,
+    "both_exchanges": 152,
+    "unique_assets": 478
   },
   "assets": [
     {
@@ -770,12 +770,21 @@
     {
       "symbol": "AVA",
       "exchanges": [
-        "BITVAVO"
+        "BITVAVO",
+        "GATE_EUROPE"
       ],
       "pairs": [
         {
           "exchange": "BITVAVO",
           "pair": "AVA-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "AVA_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "AVA_EUR"
         }
       ]
     },
@@ -1893,6 +1902,22 @@
         {
           "exchange": "BITVAVO",
           "pair": "CYBER-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "DASH",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "DASH_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "DASH_EUR"
         }
       ]
     },
@@ -3880,12 +3905,21 @@
     {
       "symbol": "LSK",
       "exchanges": [
-        "BITVAVO"
+        "BITVAVO",
+        "GATE_EUROPE"
       ],
       "pairs": [
         {
           "exchange": "BITVAVO",
           "pair": "LSK-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LSK_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "LSK_EUR"
         }
       ]
     },
@@ -5478,12 +5512,21 @@
     {
       "symbol": "SAGA",
       "exchanges": [
-        "BITVAVO"
+        "BITVAVO",
+        "GATE_EUROPE"
       ],
       "pairs": [
         {
           "exchange": "BITVAVO",
           "pair": "SAGA-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SAGA_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "SAGA_USDC"
         }
       ]
     },
@@ -5866,6 +5909,22 @@
         {
           "exchange": "BITVAVO",
           "pair": "SSV-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "STEEM",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "STEEM_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "STEEM_EUR"
         }
       ]
     },
