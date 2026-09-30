@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-09-30T06:39:35.401163+00:00",
+  "last_verified": "2026-09-30T13:38:36.777475+00:00",
   "coverage": "FULL",
   "statistics": {
-    "bitvavo_assets": 429,
+    "bitvavo_assets": 430,
     "gate_europe_assets": 195,
     "both_exchanges": 149,
-    "unique_assets": 475
+    "unique_assets": 476
   },
   "assets": [
     {
@@ -1772,6 +1772,18 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "CSPR_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "CT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "CT-EUR"
         }
       ]
     },
