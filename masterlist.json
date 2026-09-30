@@ -1,5 +1,5 @@
 {
-  "last_verified": "2026-09-30T00:23:24.494186+00:00",
+  "last_verified": "2026-09-30T06:39:35.401163+00:00",
   "coverage": "FULL",
   "statistics": {
     "bitvavo_assets": 429,
@@ -43,6 +43,10 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "1INCH_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "1INCH_EUR"
         }
       ]
     },
@@ -925,6 +929,10 @@
         },
         {
           "exchange": "GATE_EUROPE",
+          "pair": "BAT_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
           "pair": "BAT_USDC"
         }
       ]
@@ -1113,6 +1121,10 @@
         {
           "exchange": "BITVAVO",
           "pair": "BLUR-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "BLUR_EUR"
         },
         {
           "exchange": "GATE_EUROPE",
@@ -1881,6 +1893,10 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "DATA_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "DATA_EUR"
         }
       ]
     },
@@ -3364,6 +3380,10 @@
       "pairs": [
         {
           "exchange": "GATE_EUROPE",
+          "pair": "IOTA_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
           "pair": "IOTA_USDC"
         }
       ]
@@ -3467,6 +3487,10 @@
         {
           "exchange": "BITVAVO",
           "pair": "JUP-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "JUP_EUR"
         },
         {
           "exchange": "GATE_EUROPE",
@@ -7238,6 +7262,10 @@
         {
           "exchange": "BITVAVO",
           "pair": "ZRX-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ZRX_EUR"
         },
         {
           "exchange": "GATE_EUROPE",
