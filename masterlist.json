@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-10-02T08:26:32.635537+00:00",
+  "last_verified": "2026-10-02T15:45:14.086163+00:00",
   "coverage": "FULL",
   "statistics": {
-    "bitvavo_assets": 430,
+    "bitvavo_assets": 426,
     "gate_europe_assets": 200,
     "both_exchanges": 152,
-    "unique_assets": 478
+    "unique_assets": 474
   },
   "assets": [
     {
@@ -68,18 +68,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "2Z_EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "A",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "A-EUR"
         }
       ]
     },
@@ -3226,18 +3214,6 @@
       ]
     },
     {
-      "symbol": "ICX",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ICX-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ID",
       "exchanges": [
         "BITVAVO",
@@ -4655,30 +4631,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "ONDO_EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "ONG",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ONG-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "ONT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ONT-EUR"
         }
       ]
     },
