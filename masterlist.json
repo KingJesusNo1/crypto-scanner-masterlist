@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-10-05T08:56:07.160825+00:00",
+  "last_verified": "2026-10-05T18:22:19.458027+00:00",
   "coverage": "FULL",
   "statistics": {
-    "bitvavo_assets": 426,
+    "bitvavo_assets": 427,
     "gate_europe_assets": 200,
     "both_exchanges": 152,
-    "unique_assets": 474
+    "unique_assets": 475
   },
   "assets": [
     {
@@ -4854,6 +4854,18 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "PLUME_EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "PNT",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "PNT-EUR"
         }
       ]
     },
