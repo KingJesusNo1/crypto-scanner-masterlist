@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-10-07T05:51:52.318383+00:00",
+  "last_verified": "2026-10-07T13:14:53.516746+00:00",
   "coverage": "FULL",
   "statistics": {
-    "bitvavo_assets": 427,
+    "bitvavo_assets": 426,
     "gate_europe_assets": 200,
     "both_exchanges": 152,
-    "unique_assets": 475
+    "unique_assets": 474
   },
   "assets": [
     {
@@ -6013,18 +6013,6 @@
         {
           "exchange": "BITVAVO",
           "pair": "SUSHI-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "SWEAT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SWEAT-EUR"
         }
       ]
     },
