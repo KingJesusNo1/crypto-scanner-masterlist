@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-10-09T00:19:14.219080+00:00",
+  "last_verified": "2026-10-09T07:20:37.724385+00:00",
   "coverage": "FULL",
   "statistics": {
-    "bitvavo_assets": 426,
+    "bitvavo_assets": 427,
     "gate_europe_assets": 200,
     "both_exchanges": 152,
-    "unique_assets": 474
+    "unique_assets": 475
   },
   "assets": [
     {
@@ -6706,6 +6706,18 @@
         {
           "exchange": "BITVAVO",
           "pair": "WELL-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "WHUF",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "WHUF-EUR"
         }
       ]
     },
