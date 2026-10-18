@@ -1,24 +1,19 @@
 {
-  "last_verified": "2026-10-18T00:00:11.173213+00:00",
+  "last_verified": "2026-10-18T04:24:30.537071+00:00",
   "coverage": "FULL",
   "statistics": {
-    "bitvavo_assets": 427,
+    "bitvavo_assets": 0,
     "gate_europe_assets": 210,
-    "both_exchanges": 161,
-    "unique_assets": 476
+    "both_exchanges": 0,
+    "unique_assets": 210
   },
   "assets": [
     {
       "symbol": "0G",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "0G-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "0G_EUR"
@@ -32,14 +27,9 @@
     {
       "symbol": "1INCH",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "1INCH-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "1INCH_USDC"
@@ -53,14 +43,9 @@
     {
       "symbol": "2Z",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "2Z-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "2Z_USDC"
@@ -74,14 +59,9 @@
     {
       "symbol": "AAVE",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AAVE-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "AAVE_USDC"
@@ -95,14 +75,9 @@
     {
       "symbol": "ACE",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ACE-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ACE_EUR"
@@ -116,14 +91,9 @@
     {
       "symbol": "ACH",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ACH-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ACH_EUR"
@@ -151,56 +121,11 @@
       ]
     },
     {
-      "symbol": "ACT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ACT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "ACU",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ACU-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "ACX",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ACX-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ADA",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ADA-EUR"
-        },
-        {
-          "exchange": "BITVAVO",
-          "pair": "ADA-USDC"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ADA_EUR"
@@ -212,28 +137,11 @@
       ]
     },
     {
-      "symbol": "ADX",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ADX-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "AERO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AERO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "AERO_USDC"
@@ -241,18 +149,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "AERO_EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "AEVO",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AEVO-EUR"
         }
       ]
     },
@@ -273,88 +169,11 @@
       ]
     },
     {
-      "symbol": "AGI",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AGI-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "AGLD",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AGLD-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "AI",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AI-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "AIOZ",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AIOZ-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "AIXBT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AIXBT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "AKT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AKT-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ALGO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ALGO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ALGO_USDC"
@@ -366,40 +185,11 @@
       ]
     },
     {
-      "symbol": "ALICE",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ALICE-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "ALIGN",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ALIGN-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ALLO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ALLO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ALLO_EUR"
@@ -411,28 +201,11 @@
       ]
     },
     {
-      "symbol": "ALT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ALT-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "AMP",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AMP-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "AMP_USDC"
@@ -444,28 +217,11 @@
       ]
     },
     {
-      "symbol": "ANIME",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ANIME-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ANKR",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ANKR-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ANKR_USDC"
@@ -479,14 +235,9 @@
     {
       "symbol": "APE",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "APE-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "APE_USDC"
@@ -498,28 +249,11 @@
       ]
     },
     {
-      "symbol": "API3",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "API3-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "APT",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "APT-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "APT_EUR"
@@ -533,14 +267,9 @@
     {
       "symbol": "ARB",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ARB-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ARB_USDC"
@@ -570,14 +299,9 @@
     {
       "symbol": "ARK",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ARK-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ARK_EUR"
@@ -591,14 +315,9 @@
     {
       "symbol": "ARKM",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ARKM-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ARKM_EUR"
@@ -606,30 +325,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "ARKM_USDC"
-        }
-      ]
-    },
-    {
-      "symbol": "ARPA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ARPA-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "ARX",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ARX-EUR"
         }
       ]
     },
@@ -650,28 +345,11 @@
       ]
     },
     {
-      "symbol": "ASTER",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ASTER-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ASTR",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ASTR-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ASTR_EUR"
@@ -685,14 +363,9 @@
     {
       "symbol": "ATH",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ATH-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ATH_EUR"
@@ -722,14 +395,9 @@
     {
       "symbol": "ATOM",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ATOM-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ATOM_USDC"
@@ -741,28 +409,11 @@
       ]
     },
     {
-      "symbol": "AUCTION",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AUCTION-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "AUDIO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AUDIO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "AUDIO_USDC"
@@ -776,14 +427,9 @@
     {
       "symbol": "AVA",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AVA-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "AVA_USDC"
@@ -797,14 +443,9 @@
     {
       "symbol": "AVAX",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AVAX-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "AVAX_USDC"
@@ -812,66 +453,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "AVAX_EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "AVNT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AVNT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "AXL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AXL-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "AXS",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AXS-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "AZTEC",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "AZTEC-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "BABY",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BABY-EUR"
         }
       ]
     },
@@ -888,30 +469,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "BABYDOGE_USDC"
-        }
-      ]
-    },
-    {
-      "symbol": "BANANA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BANANA-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "BAND",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BAND-EUR"
         }
       ]
     },
@@ -934,14 +491,9 @@
     {
       "symbol": "BAT",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BAT-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "BAT_EUR"
@@ -955,14 +507,9 @@
     {
       "symbol": "BCH",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BCH-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "BCH_EUR"
@@ -970,30 +517,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "BCH_USDC"
-        }
-      ]
-    },
-    {
-      "symbol": "BEAM",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BEAM-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "BEL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BEL-EUR"
         }
       ]
     },
@@ -1030,28 +553,11 @@
       ]
     },
     {
-      "symbol": "BICO",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BICO-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "BIGTIME",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BIGTIME-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "BIGTIME_USDC"
@@ -1059,42 +565,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "BIGTIME_EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "BILL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BILL-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "BIO",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BIO-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "BIRB",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BIRB-EUR"
         }
       ]
     },
@@ -1115,28 +585,11 @@
       ]
     },
     {
-      "symbol": "BLEND",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BLEND-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "BLUR",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BLUR-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "BLUR_EUR"
@@ -1150,14 +603,9 @@
     {
       "symbol": "BNB",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BNB-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "BNB_USDC"
@@ -1165,30 +613,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "BNB_EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "BNT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BNT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "BOB",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BOB-EUR"
         }
       ]
     },
@@ -1209,28 +633,11 @@
       ]
     },
     {
-      "symbol": "BOME",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BOME-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "BONK",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BONK-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "BONK_USDC"
@@ -1244,14 +651,9 @@
     {
       "symbol": "BRETT",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BRETT-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "BRETT_EUR"
@@ -1259,18 +661,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "BRETT_USDC"
-        }
-      ]
-    },
-    {
-      "symbol": "BREV",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BREV-EUR"
         }
       ]
     },
@@ -1293,18 +683,9 @@
     {
       "symbol": "BTC",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BTC-EUR"
-        },
-        {
-          "exchange": "BITVAVO",
-          "pair": "BTC-USDC"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "BTC_EUR"
@@ -1318,14 +699,9 @@
     {
       "symbol": "BTT",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "BTT-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "BTT_EUR"
@@ -1337,40 +713,11 @@
       ]
     },
     {
-      "symbol": "C",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "C-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "C98",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "C98-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "CAKE",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CAKE-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "CAKE_EUR"
@@ -1382,64 +729,11 @@
       ]
     },
     {
-      "symbol": "CAP",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CAP-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "CARV",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CARV-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "CAT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CAT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "CATI",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CATI-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "CC",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CC-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "CC_EUR"
@@ -1453,14 +747,9 @@
     {
       "symbol": "CELO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CELO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "CELO_EUR"
@@ -1472,28 +761,11 @@
       ]
     },
     {
-      "symbol": "CELR",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CELR-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "CETUS",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CETUS-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "CETUS_EUR"
@@ -1507,14 +779,9 @@
     {
       "symbol": "CFG",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CFG-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "CFG_EUR"
@@ -1542,28 +809,11 @@
       ]
     },
     {
-      "symbol": "CHILLGUY",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CHILLGUY-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "CHIP",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CHIP-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "CHIP_EUR"
@@ -1575,28 +825,11 @@
       ]
     },
     {
-      "symbol": "CHR",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CHR-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "CHZ",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CHZ-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "CHZ_USDC"
@@ -1640,28 +873,11 @@
       ]
     },
     {
-      "symbol": "CNPY",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CNPY-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "COMP",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "COMP-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "COMP_USDC"
@@ -1689,52 +905,11 @@
       ]
     },
     {
-      "symbol": "COTI",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "COTI-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "COW",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "COW-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "CPOOL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CPOOL-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "CRO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CRO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "CRO_EUR"
@@ -1746,28 +921,11 @@
       ]
     },
     {
-      "symbol": "CROSS",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CROSS-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "CRV",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CRV-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "CRV_USDC"
@@ -1781,14 +939,9 @@
     {
       "symbol": "CSPR",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CSPR-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "CSPR_USDC"
@@ -1800,64 +953,11 @@
       ]
     },
     {
-      "symbol": "CT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "CTC",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CTC-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "CTK",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CTK-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "CTR",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CTR-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "CTSI",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CTSI-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "CTSI_USDC"
@@ -1865,30 +965,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "CTSI_EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "CVC",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CVC-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "CVX",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CVX-EUR"
         }
       ]
     },
@@ -1905,18 +981,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "CXT_USDC"
-        }
-      ]
-    },
-    {
-      "symbol": "CYBER",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CYBER-EUR"
         }
       ]
     },
@@ -1953,54 +1017,6 @@
       ]
     },
     {
-      "symbol": "DATAIP",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "DATAIP-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "DBR",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "DBR-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "DEEP",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "DEEP-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "DEGEN",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "DEGEN-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "DEXE",
       "exchanges": [
         "GATE_EUROPE"
@@ -2019,14 +1035,9 @@
     {
       "symbol": "DGB",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "DGB-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "DGB_USDC"
@@ -2038,28 +1049,11 @@
       ]
     },
     {
-      "symbol": "DIA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "DIA-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "DODO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "DODO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "DODO_USDC"
@@ -2073,18 +1067,9 @@
     {
       "symbol": "DOGE",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "DOGE-USDC"
-        },
-        {
-          "exchange": "BITVAVO",
-          "pair": "DOGE-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "DOGE_USDC"
@@ -2096,40 +1081,11 @@
       ]
     },
     {
-      "symbol": "DOGS",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "DOGS-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "DOS",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "DOS-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "DOT",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "DOT-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "DOT_EUR"
@@ -2141,52 +1097,11 @@
       ]
     },
     {
-      "symbol": "DRIFT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "DRIFT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "DRV",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "DRV-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "DUSK",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "DUSK-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "DYDX",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "DYDX-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "DYDX_EUR"
@@ -2198,64 +1113,11 @@
       ]
     },
     {
-      "symbol": "DYM",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "DYM-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "EDEN",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "EDEN-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "EDGE",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "EDGE-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "EDU",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "EDU-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "EGLD",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "EGLD-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "EGLD_EUR"
@@ -2269,14 +1131,9 @@
     {
       "symbol": "EIGEN",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "EIGEN-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "EIGEN_USDC"
@@ -2288,28 +1145,11 @@
       ]
     },
     {
-      "symbol": "ELSA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ELSA-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ENA",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ENA-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ENA_USDC"
@@ -2321,28 +1161,11 @@
       ]
     },
     {
-      "symbol": "ENJ",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ENJ-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ENS",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ENS-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ENS_USDC"
@@ -2354,52 +1177,11 @@
       ]
     },
     {
-      "symbol": "ENSO",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ENSO-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "EPIC",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "EPIC-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "ESP",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ESP-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ETC",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ETC-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ETC_EUR"
@@ -2413,18 +1195,9 @@
     {
       "symbol": "ETH",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ETH-USDC"
-        },
-        {
-          "exchange": "BITVAVO",
-          "pair": "ETH-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ETH_EUR"
@@ -2438,14 +1211,9 @@
     {
       "symbol": "ETHFI",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ETHFI-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ETHFI_USDC"
@@ -2457,92 +1225,11 @@
       ]
     },
     {
-      "symbol": "EUL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "EUL-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "EURC",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "EURC-EUR"
-        },
-        {
-          "exchange": "BITVAVO",
-          "pair": "EURC-USDC"
-        }
-      ]
-    },
-    {
-      "symbol": "EURCV",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "EURCV-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "EUROP",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "EUROP-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "F",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "F-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "FARTCOIN",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "FARTCOIN-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "FET",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "FET-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "FET_USDC"
@@ -2554,28 +1241,11 @@
       ]
     },
     {
-      "symbol": "FIDA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "FIDA-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "FIL",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "FIL-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "FIL_USDC"
@@ -2587,28 +1257,11 @@
       ]
     },
     {
-      "symbol": "FLOCK",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "FLOCK-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "FLOKI",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "FLOKI-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "FLOKI_USDC"
@@ -2638,14 +1291,9 @@
     {
       "symbol": "FLR",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "FLR-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "FLR_EUR"
@@ -2657,124 +1305,11 @@
       ]
     },
     {
-      "symbol": "FLUID",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "FLUID-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "FLUX",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "FLUX-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "FOLD",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "FOLD-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "FORM",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "FORM-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "FRAX",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "FRAX-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "FTT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "FTT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "FUEL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "FUEL-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "FUN",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "FUN-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "G",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "G-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "GALA",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "GALA-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "GALA_EUR"
@@ -2802,30 +1337,6 @@
       ]
     },
     {
-      "symbol": "GAS",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "GAS-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "GIGA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "GIGA-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "GITCOIN",
       "exchanges": [
         "GATE_EUROPE"
@@ -2842,52 +1353,11 @@
       ]
     },
     {
-      "symbol": "GLM",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "GLM-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "GLMR",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "GLMR-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "GMT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "GMT-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "GMX",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "GMX-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "GMX_USDC"
@@ -2901,14 +1371,9 @@
     {
       "symbol": "GNO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "GNO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "GNO_EUR"
@@ -2920,40 +1385,11 @@
       ]
     },
     {
-      "symbol": "GNS",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "GNS-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "GOAT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "GOAT-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "GRAM",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "GRAM-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "GRAM_USDC"
@@ -2967,14 +1403,9 @@
     {
       "symbol": "GRASS",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "GRASS-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "GRASS_USDC"
@@ -2986,28 +1417,11 @@
       ]
     },
     {
-      "symbol": "GROVE",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "GROVE-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "GRT",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "GRT-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "GRT_USDC"
@@ -3019,52 +1433,11 @@
       ]
     },
     {
-      "symbol": "GTC",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "GTC-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "GWEI",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "GWEI-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "HAEDAL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "HAEDAL-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "HBAR",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "HBAR-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "HBAR_EUR"
@@ -3078,14 +1451,9 @@
     {
       "symbol": "HEI",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "HEI-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "HEI_USDC"
@@ -3099,14 +1467,9 @@
     {
       "symbol": "HFT",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "HFT-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "HFT_USDC"
@@ -3120,14 +1483,9 @@
     {
       "symbol": "HMSTR",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "HMSTR-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "HMSTR_USDC"
@@ -3139,64 +1497,11 @@
       ]
     },
     {
-      "symbol": "HNT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "HNT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "HOME",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "HOME-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "HOT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "HOT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "HUMA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "HUMA-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "HYPE",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "HYPE-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "HYPE_EUR"
@@ -3208,28 +1513,11 @@
       ]
     },
     {
-      "symbol": "ICNT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ICNT-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ICP",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ICP-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ICP_EUR"
@@ -3243,14 +1531,9 @@
     {
       "symbol": "ID",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ID-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ID_EUR"
@@ -3262,52 +1545,11 @@
       ]
     },
     {
-      "symbol": "IKA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "IKA-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "ILV",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ILV-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "IMU",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "IMU-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "IMX",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "IMX-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "IMX_EUR"
@@ -3319,28 +1561,11 @@
       ]
     },
     {
-      "symbol": "INIT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "INIT-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "INJ",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "INJ-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "INJ_EUR"
@@ -3368,28 +1593,11 @@
       ]
     },
     {
-      "symbol": "INX",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "INX-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "IO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "IO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "IO_EUR"
@@ -3397,18 +1605,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "IO_USDC"
-        }
-      ]
-    },
-    {
-      "symbol": "IOST",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "IOST-EUR"
         }
       ]
     },
@@ -3445,42 +1641,6 @@
       ]
     },
     {
-      "symbol": "IQ",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "IQ-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "IRYS",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "IRYS-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "JASMY",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "JASMY-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "JST",
       "exchanges": [
         "GATE_EUROPE"
@@ -3499,14 +1659,9 @@
     {
       "symbol": "JTO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "JTO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "JTO_USDC"
@@ -3520,14 +1675,9 @@
     {
       "symbol": "JUP",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "JUP-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "JUP_EUR"
@@ -3557,14 +1707,9 @@
     {
       "symbol": "KAIA",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "KAIA-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "KAIA_USDC"
@@ -3578,14 +1723,9 @@
     {
       "symbol": "KAITO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "KAITO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "KAITO_USDC"
@@ -3597,64 +1737,11 @@
       ]
     },
     {
-      "symbol": "KAS",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "KAS-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "KAT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "KAT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "KERNEL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "KERNEL-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "KITE",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "KITE-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "KMNO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "KMNO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "KMNO_USDC"
@@ -3666,28 +1753,11 @@
       ]
     },
     {
-      "symbol": "KNC",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "KNC-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "KSM",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "KSM-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "KSM_USDC"
@@ -3715,30 +1785,6 @@
       ]
     },
     {
-      "symbol": "LAPTOP",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "LAPTOP-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "LAYER",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "LAYER-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "LAZIO",
       "exchanges": [
         "GATE_EUROPE"
@@ -3757,14 +1803,9 @@
     {
       "symbol": "LDO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "LDO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "LDO_EUR"
@@ -3792,28 +1833,11 @@
       ]
     },
     {
-      "symbol": "LIGHTER",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "LIGHTER-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "LINEA",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "LINEA-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "LINEA_EUR"
@@ -3827,14 +1851,9 @@
     {
       "symbol": "LINK",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "LINK-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "LINK_EUR"
@@ -3846,64 +1865,11 @@
       ]
     },
     {
-      "symbol": "LISTA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "LISTA-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "LMWR",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "LMWR-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "LPT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "LPT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "LQTY",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "LQTY-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "LRC",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "LRC-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "LRC_EUR"
@@ -3917,14 +1883,9 @@
     {
       "symbol": "LSK",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "LSK-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "LSK_USDC"
@@ -3938,14 +1899,9 @@
     {
       "symbol": "LTC",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "LTC-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "LTC_EUR"
@@ -3957,28 +1913,11 @@
       ]
     },
     {
-      "symbol": "LUMIA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "LUMIA-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "LUNA",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "LUNA-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "LUNA_USDC"
@@ -3986,18 +1925,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "LUNA_EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "LUNA2",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "LUNA2-EUR"
         }
       ]
     },
@@ -4018,28 +1945,11 @@
       ]
     },
     {
-      "symbol": "MAGIC",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MAGIC-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "MANA",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MANA-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "MANA_USDC"
@@ -4051,28 +1961,11 @@
       ]
     },
     {
-      "symbol": "MANTA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MANTA-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "MANTRA",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MANTRA-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "MANTRA_USDC"
@@ -4086,14 +1979,9 @@
     {
       "symbol": "MASK",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MASK-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "MASK_EUR"
@@ -4101,66 +1989,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "MASK_USDC"
-        }
-      ]
-    },
-    {
-      "symbol": "MAV",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MAV-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "MAVIA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MAVIA-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "ME",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ME-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "MEGA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MEGA-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "MEME",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MEME-EUR"
         }
       ]
     },
@@ -4183,14 +2011,9 @@
     {
       "symbol": "MERL",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MERL-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "MERL_EUR"
@@ -4204,14 +2027,9 @@
     {
       "symbol": "MET",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MET-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "MET_EUR"
@@ -4223,76 +2041,11 @@
       ]
     },
     {
-      "symbol": "METIS",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "METIS-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "MEW",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MEW-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "MIOTA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MIOTA-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "MIRA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MIRA-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "MLN",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MLN-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "MMT",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MMT-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "MMT_EUR"
@@ -4320,28 +2073,11 @@
       ]
     },
     {
-      "symbol": "MOCA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MOCA-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "MOG",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MOG-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "MOG_USDC"
@@ -4355,14 +2091,9 @@
     {
       "symbol": "MON",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MON-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "MON_USDC"
@@ -4374,64 +2105,11 @@
       ]
     },
     {
-      "symbol": "MOODENG",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MOODENG-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "MORPHO",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MORPHO-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "MOVE",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MOVE-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "MOVR",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MOVR-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "MTL",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "MTL-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "MTL_EUR"
@@ -4461,14 +2139,9 @@
     {
       "symbol": "NEAR",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "NEAR-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "NEAR_USDC"
@@ -4480,28 +2153,11 @@
       ]
     },
     {
-      "symbol": "NEIRO",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "NEIRO-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "NEO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "NEO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "NEO_EUR"
@@ -4509,42 +2165,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "NEO_USDC"
-        }
-      ]
-    },
-    {
-      "symbol": "NES",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "NES-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "NEWT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "NEWT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "NEX",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "NEX-EUR"
         }
       ]
     },
@@ -4565,90 +2185,6 @@
       ]
     },
     {
-      "symbol": "NIL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "NIL-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "NMR",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "NMR-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "NOM",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "NOM-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "NOS",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "NOS-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "NOT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "NOT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "NPC",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "NPC-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "O",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "O-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "OFC",
       "exchanges": [
         "GATE_EUROPE"
@@ -4665,28 +2201,11 @@
       ]
     },
     {
-      "symbol": "OGN",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "OGN-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ONDO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ONDO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ONDO_USDC"
@@ -4700,14 +2219,9 @@
     {
       "symbol": "OP",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "OP-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "OP_EUR"
@@ -4719,28 +2233,11 @@
       ]
     },
     {
-      "symbol": "OPEN",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "OPEN-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ORCA",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ORCA-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ORCA_USDC"
@@ -4752,52 +2249,11 @@
       ]
     },
     {
-      "symbol": "OSMO",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "OSMO-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "PARTI",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PARTI-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "PEAQ",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PEAQ-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "PENDLE",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PENDLE-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "PENDLE_USDC"
@@ -4811,14 +2267,9 @@
     {
       "symbol": "PENGU",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PENGU-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "PENGU_EUR"
@@ -4830,32 +2281,11 @@
       ]
     },
     {
-      "symbol": "PEOPLE",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PEOPLE-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "PEPE",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PEPE-USDC"
-        },
-        {
-          "exchange": "BITVAVO",
-          "pair": "PEPE-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "PEPE_USDC"
@@ -4869,14 +2299,9 @@
     {
       "symbol": "PHA",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PHA-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "PHA_EUR"
@@ -4888,28 +2313,11 @@
       ]
     },
     {
-      "symbol": "PIXEL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PIXEL-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "PLUME",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PLUME-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "PLUME_USDC"
@@ -4921,40 +2329,11 @@
       ]
     },
     {
-      "symbol": "PNT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PNT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "PNUT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PNUT-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "POL",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "POL-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "POL_USDC"
@@ -4962,42 +2341,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "POL_EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "POND",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "POND-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "PONKE",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PONKE-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "POPCAT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "POPCAT-EUR"
         }
       ]
     },
@@ -5018,28 +2361,11 @@
       ]
     },
     {
-      "symbol": "PORTAL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PORTAL-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "POWR",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "POWR-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "POWR_EUR"
@@ -5051,40 +2377,11 @@
       ]
     },
     {
-      "symbol": "PROM",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PROM-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "PROMPT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PROMPT-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "PROVE",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PROVE-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "PROVE_USDC"
@@ -5112,52 +2409,11 @@
       ]
     },
     {
-      "symbol": "PTB",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PTB-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "PUFFER",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PUFFER-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "PUMP",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PUMP-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "PUNDIX",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PUNDIX-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "PUNDIX_USDC"
@@ -5169,40 +2425,11 @@
       ]
     },
     {
-      "symbol": "PYTH",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PYTH-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "QKC",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "QKC-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "QNT",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "QNT-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "QNT_USDC"
@@ -5230,52 +2457,11 @@
       ]
     },
     {
-      "symbol": "QUID",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "QUID-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "RAD",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "RAD-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "RARE",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "RARE-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "RAY",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "RAY-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "RAY_EUR"
@@ -5287,52 +2473,11 @@
       ]
     },
     {
-      "symbol": "RE",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "RE-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "RECALL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "RECALL-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "RED",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "RED-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "RENDER",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "RENDER-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "RENDER_EUR"
@@ -5346,14 +2491,9 @@
     {
       "symbol": "REQ",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "REQ-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "REQ_USDC"
@@ -5365,76 +2505,11 @@
       ]
     },
     {
-      "symbol": "REZ",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "REZ-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "RLC",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "RLC-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "ROBO",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ROBO-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "RON",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "RON-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "ROSE",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ROSE-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "RPL",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "RPL-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "RPL_USDC"
@@ -5448,14 +2523,9 @@
     {
       "symbol": "RSR",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "RSR-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "RSR_USDC"
@@ -5463,18 +2533,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "RSR_EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "RUNE",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "RUNE-EUR"
         }
       ]
     },
@@ -5497,14 +2555,9 @@
     {
       "symbol": "S",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "S-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "S_USDC"
@@ -5518,14 +2571,9 @@
     {
       "symbol": "SAFE",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SAFE-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "SAFE_USDC"
@@ -5539,14 +2587,9 @@
     {
       "symbol": "SAGA",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SAGA-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "SAGA_EUR"
@@ -5560,14 +2603,9 @@
     {
       "symbol": "SAND",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SAND-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "SAND_EUR"
@@ -5597,14 +2635,9 @@
     {
       "symbol": "SAPIEN",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SAPIEN-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "SAPIEN_USDC"
@@ -5632,28 +2665,11 @@
       ]
     },
     {
-      "symbol": "SCR",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SCR-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "SEI",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SEI-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "SEI_EUR"
@@ -5665,52 +2681,11 @@
       ]
     },
     {
-      "symbol": "SENT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SENT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "SFP",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SFP-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "SHELL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SHELL-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "SHIB",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SHIB-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "SHIB_USDC"
@@ -5722,76 +2697,11 @@
       ]
     },
     {
-      "symbol": "SIGN",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SIGN-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "SKL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SKL-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "SKY",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SKY-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "SLP",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SLP-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "SLX",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SLX-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "SNX",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SNX-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "SNX_USDC"
@@ -5805,18 +2715,9 @@
     {
       "symbol": "SOL",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SOL-USDC"
-        },
-        {
-          "exchange": "BITVAVO",
-          "pair": "SOL-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "SOL_USDC"
@@ -5824,66 +2725,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "SOL_EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "SOLV",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SOLV-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "SOMI",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SOMI-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "SOON",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SOON-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "SOSO",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SOSO-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "SPK",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SPK-EUR"
         }
       ]
     },
@@ -5904,42 +2745,6 @@
       ]
     },
     {
-      "symbol": "SPX",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SPX-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "SQD",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SQD-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "SSV",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SSV-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "STEEM",
       "exchanges": [
         "GATE_EUROPE"
@@ -5952,18 +2757,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "STEEM_EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "STO",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "STO-EUR"
         }
       ]
     },
@@ -5984,28 +2777,11 @@
       ]
     },
     {
-      "symbol": "STRAX",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "STRAX-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "STRK",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "STRK-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "STRK_EUR"
@@ -6019,14 +2795,9 @@
     {
       "symbol": "STX",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "STX-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "STX_EUR"
@@ -6040,18 +2811,9 @@
     {
       "symbol": "SUI",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SUI-EUR"
-        },
-        {
-          "exchange": "BITVAVO",
-          "pair": "SUI-USDC"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "SUI_EUR"
@@ -6065,14 +2827,9 @@
     {
       "symbol": "SUPER",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SUPER-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "SUPER_EUR"
@@ -6084,52 +2841,11 @@
       ]
     },
     {
-      "symbol": "SUSHI",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SUSHI-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "SWELL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SWELL-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "SXT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SXT-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "SYN",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SYN-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "SYN_EUR"
@@ -6141,64 +2857,11 @@
       ]
     },
     {
-      "symbol": "SYRUP",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "SYRUP-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "T",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "T-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "TAI",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TAI-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "TAIKO",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TAIKO-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "TAO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TAO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "TAO_EUR"
@@ -6206,18 +2869,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "TAO_USDC"
-        }
-      ]
-    },
-    {
-      "symbol": "THE",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "THE-EUR"
         }
       ]
     },
@@ -6238,32 +2889,11 @@
       ]
     },
     {
-      "symbol": "THQ",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "THQ-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "TIA",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TIA-USDC"
-        },
-        {
-          "exchange": "BITVAVO",
-          "pair": "TIA-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "TIA_EUR"
@@ -6275,52 +2905,11 @@
       ]
     },
     {
-      "symbol": "TLM",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TLM-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "TNSR",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TNSR-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "TOSHI",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TOSHI-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "TOWNS",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TOWNS-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "TOWNS_USDC"
@@ -6348,28 +2937,11 @@
       ]
     },
     {
-      "symbol": "TRAC",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TRAC-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "TRB",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TRB-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "TRB_EUR"
@@ -6381,76 +2953,11 @@
       ]
     },
     {
-      "symbol": "TREAD",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TREAD-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "TREE",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TREE-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "TRIA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TRIA-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "TRUMP",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TRUMP-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "TRUST",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TRUST-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "TRX",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TRX-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "TRX_EUR"
@@ -6462,64 +2969,11 @@
       ]
     },
     {
-      "symbol": "TURBO",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TURBO-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "TWT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "TWT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "U",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "U-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "UMA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "UMA-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "UNI",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "UNI-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "UNI_USDC"
@@ -6531,28 +2985,11 @@
       ]
     },
     {
-      "symbol": "UP",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "UP-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "USDC",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "USDC-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "USDC_EUR"
@@ -6560,56 +2997,11 @@
       ]
     },
     {
-      "symbol": "USDCV",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "USDCV-USDC"
-        },
-        {
-          "exchange": "BITVAVO",
-          "pair": "USDCV-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "USELESS",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "USELESS-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "VANA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "VANA-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "VELO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "VELO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "VELO_USDC"
@@ -6621,28 +3013,11 @@
       ]
     },
     {
-      "symbol": "VERONA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "VERONA-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "VET",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "VET-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "VET_USDC"
@@ -6656,14 +3031,9 @@
     {
       "symbol": "VIRTUAL",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "VIRTUAL-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "VIRTUAL_USDC"
@@ -6675,52 +3045,11 @@
       ]
     },
     {
-      "symbol": "VSN",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "VSN-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "VTHO",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "VTHO-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "VVV",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "VVV-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "W",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "W-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "W_USDC"
@@ -6734,14 +3063,9 @@
     {
       "symbol": "WAL",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "WAL-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "WAL_USDC"
@@ -6753,76 +3077,11 @@
       ]
     },
     {
-      "symbol": "WAXP",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "WAXP-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "WCT",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "WCT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "WELL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "WELL-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "WHUF",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "WHUF-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "WIF",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "WIF-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "WIN",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "WIN-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "WIN_EUR"
@@ -6836,14 +3095,9 @@
     {
       "symbol": "WLD",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "WLD-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "WLD_EUR"
@@ -6857,14 +3111,9 @@
     {
       "symbol": "WLFI",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "WLFI-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "WLFI_USDC"
@@ -6876,28 +3125,11 @@
       ]
     },
     {
-      "symbol": "WMTX",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "WMTX-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "WOO",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "WOO-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "WOO_USDC"
@@ -6909,64 +3141,11 @@
       ]
     },
     {
-      "symbol": "XAI",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "XAI-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "XAN",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "XAN-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "XDC",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "XDC-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "XDP",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "XDP-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "XLM",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "XLM-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "XLM_EUR"
@@ -6978,28 +3157,11 @@
       ]
     },
     {
-      "symbol": "XMN",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "XMN-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "XPL",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "XPL-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "XPL_USDC"
@@ -7013,18 +3175,9 @@
     {
       "symbol": "XRP",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "XRP-USDC"
-        },
-        {
-          "exchange": "BITVAVO",
-          "pair": "XRP-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "XRP_USDC"
@@ -7038,14 +3191,9 @@
     {
       "symbol": "XTZ",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "XTZ-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "XTZ_EUR"
@@ -7053,18 +3201,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "XTZ_USDC"
-        }
-      ]
-    },
-    {
-      "symbol": "XVG",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "XVG-EUR"
         }
       ]
     },
@@ -7085,52 +3221,11 @@
       ]
     },
     {
-      "symbol": "XYO",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "XYO-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "YB",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "YB-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "YFI",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "YFI-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "YGG",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "YGG-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "YGG_EUR"
@@ -7144,14 +3239,9 @@
     {
       "symbol": "ZAMA",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ZAMA-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ZAMA_EUR"
@@ -7163,28 +3253,11 @@
       ]
     },
     {
-      "symbol": "ZBCN",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ZBCN-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ZBT",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ZBT-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ZBT_USDC"
@@ -7196,28 +3269,11 @@
       ]
     },
     {
-      "symbol": "ZEN",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ZEN-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ZETA",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ZETA-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ZETA_USDC"
@@ -7231,14 +3287,9 @@
     {
       "symbol": "ZEUS",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ZEUS-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ZEUS_USDC"
@@ -7250,40 +3301,11 @@
       ]
     },
     {
-      "symbol": "ZIG",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ZIG-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "ZIL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ZIL-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ZK",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ZK-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ZK_USDC"
@@ -7295,28 +3317,11 @@
       ]
     },
     {
-      "symbol": "ZKC",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ZKC-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ZKJ",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ZKJ-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ZKJ_USDC"
@@ -7328,28 +3333,11 @@
       ]
     },
     {
-      "symbol": "ZKP",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ZKP-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ZORA",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ZORA-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ZORA_EUR"
@@ -7361,40 +3349,11 @@
       ]
     },
     {
-      "symbol": "ZRC",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ZRC-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "ZRO",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ZRO-EUR"
-        }
-      ]
-    },
-    {
       "symbol": "ZRX",
       "exchanges": [
-        "BITVAVO",
         "GATE_EUROPE"
       ],
       "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ZRX-EUR"
-        },
         {
           "exchange": "GATE_EUROPE",
           "pair": "ZRX_EUR"
