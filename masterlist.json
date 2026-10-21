@@ -1,10 +1,10 @@
 {
-  "last_verified": "2026-10-21T13:43:30.459693+00:00",
+  "last_verified": "2026-10-21T18:34:52.132047+00:00",
   "coverage": "FULL",
   "statistics": {
     "bitvavo_assets": 428,
-    "gate_europe_assets": 210,
-    "both_exchanges": 161,
+    "gate_europe_assets": 213,
+    "both_exchanges": 164,
     "unique_assets": 477
   },
   "assets": [
@@ -818,12 +818,21 @@
     {
       "symbol": "AVNT",
       "exchanges": [
-        "BITVAVO"
+        "BITVAVO",
+        "GATE_EUROPE"
       ],
       "pairs": [
         {
           "exchange": "BITVAVO",
           "pair": "AVNT-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "AVNT_USDC"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "AVNT_EUR"
         }
       ]
     },
@@ -5379,12 +5388,21 @@
     {
       "symbol": "REZ",
       "exchanges": [
-        "BITVAVO"
+        "BITVAVO",
+        "GATE_EUROPE"
       ],
       "pairs": [
         {
           "exchange": "BITVAVO",
           "pair": "REZ-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "REZ_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "REZ_USDC"
         }
       ]
     },
@@ -6313,12 +6331,21 @@
     {
       "symbol": "TOSHI",
       "exchanges": [
-        "BITVAVO"
+        "BITVAVO",
+        "GATE_EUROPE"
       ],
       "pairs": [
         {
           "exchange": "BITVAVO",
           "pair": "TOSHI-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "TOSHI_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "TOSHI_USDC"
         }
       ]
     },
