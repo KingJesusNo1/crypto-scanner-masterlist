@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-10-21T07:32:34.003807+00:00",
+  "last_verified": "2026-10-21T13:43:30.459693+00:00",
   "coverage": "FULL",
   "statistics": {
-    "bitvavo_assets": 427,
+    "bitvavo_assets": 428,
     "gate_europe_assets": 210,
     "both_exchanges": 161,
-    "unique_assets": 476
+    "unique_assets": 477
   },
   "assets": [
     {
@@ -824,6 +824,18 @@
         {
           "exchange": "BITVAVO",
           "pair": "AVNT-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "AXIS",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "AXIS-EUR"
         }
       ]
     },
