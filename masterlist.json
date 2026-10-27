@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-10-27T07:45:44.705440+00:00",
+  "last_verified": "2026-10-27T14:24:02.305290+00:00",
   "coverage": "FULL",
   "statistics": {
-    "bitvavo_assets": 428,
+    "bitvavo_assets": 427,
     "gate_europe_assets": 213,
     "both_exchanges": 164,
-    "unique_assets": 477
+    "unique_assets": 476
   },
   "assets": [
     {
@@ -171,18 +171,6 @@
         {
           "exchange": "BITVAVO",
           "pair": "ACU-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "ACX",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ACX-EUR"
         }
       ]
     },
