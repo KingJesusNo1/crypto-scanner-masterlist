@@ -1,10 +1,10 @@
 {
-  "last_verified": "2026-10-30T08:33:32.490945+00:00",
+  "last_verified": "2026-10-30T15:51:52.287475+00:00",
   "coverage": "FULL",
   "statistics": {
     "bitvavo_assets": 427,
-    "gate_europe_assets": 213,
-    "both_exchanges": 164,
+    "gate_europe_assets": 215,
+    "both_exchanges": 166,
     "unique_assets": 476
   },
   "assets": [
@@ -7192,12 +7192,21 @@
     {
       "symbol": "ZBCN",
       "exchanges": [
-        "BITVAVO"
+        "BITVAVO",
+        "GATE_EUROPE"
       ],
       "pairs": [
         {
           "exchange": "BITVAVO",
           "pair": "ZBCN-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ZBCN_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ZBCN_USDC"
         }
       ]
     },
@@ -7291,12 +7300,21 @@
     {
       "symbol": "ZIL",
       "exchanges": [
-        "BITVAVO"
+        "BITVAVO",
+        "GATE_EUROPE"
       ],
       "pairs": [
         {
           "exchange": "BITVAVO",
           "pair": "ZIL-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ZIL_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "ZIL_USDC"
         }
       ]
     },
