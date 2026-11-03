@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-11-03T09:27:46.582688+00:00",
+  "last_verified": "2026-11-03T17:48:14.949669+00:00",
   "coverage": "FULL",
   "statistics": {
-    "bitvavo_assets": 427,
+    "bitvavo_assets": 426,
     "gate_europe_assets": 215,
     "both_exchanges": 166,
-    "unique_assets": 476
+    "unique_assets": 475
   },
   "assets": [
     {
@@ -6509,18 +6509,6 @@
         {
           "exchange": "BITVAVO",
           "pair": "TWT-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "U",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "U-EUR"
         }
       ]
     },
