@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-11-06T06:33:22.682011+00:00",
+  "last_verified": "2026-11-06T14:58:49.768680+00:00",
   "coverage": "FULL",
   "statistics": {
-    "bitvavo_assets": 426,
+    "bitvavo_assets": 425,
     "gate_europe_assets": 215,
     "both_exchanges": 166,
-    "unique_assets": 475
+    "unique_assets": 474
   },
   "assets": [
     {
@@ -5117,18 +5117,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "PSG_USDC"
-        }
-      ]
-    },
-    {
-      "symbol": "PTB",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "PTB-EUR"
         }
       ]
     },
