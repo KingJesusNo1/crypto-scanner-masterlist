@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-11-11T10:48:26.469577+00:00",
+  "last_verified": "2026-11-11T18:38:44.662645+00:00",
   "coverage": "FULL",
   "statistics": {
     "bitvavo_assets": 425,
-    "gate_europe_assets": 213,
-    "both_exchanges": 166,
-    "unique_assets": 472
+    "gate_europe_assets": 215,
+    "both_exchanges": 167,
+    "unique_assets": 473
   },
   "assets": [
     {
@@ -4967,6 +4967,22 @@
       ]
     },
     {
+      "symbol": "PONS",
+      "exchanges": [
+        "GATE_EUROPE"
+      ],
+      "pairs": [
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PONS_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "PONS_USDC"
+        }
+      ]
+    },
+    {
       "symbol": "POPCAT",
       "exchanges": [
         "BITVAVO"
@@ -6549,12 +6565,21 @@
     {
       "symbol": "USELESS",
       "exchanges": [
-        "BITVAVO"
+        "BITVAVO",
+        "GATE_EUROPE"
       ],
       "pairs": [
         {
           "exchange": "BITVAVO",
           "pair": "USELESS-EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "USELESS_EUR"
+        },
+        {
+          "exchange": "GATE_EUROPE",
+          "pair": "USELESS_USDC"
         }
       ]
     },
