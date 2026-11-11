@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-11-11T02:47:41.930434+00:00",
+  "last_verified": "2026-11-11T10:48:26.469577+00:00",
   "coverage": "FULL",
   "statistics": {
     "bitvavo_assets": 425,
-    "gate_europe_assets": 215,
+    "gate_europe_assets": 213,
     "both_exchanges": 166,
-    "unique_assets": 474
+    "unique_assets": 472
   },
   "assets": [
     {
@@ -1104,22 +1104,6 @@
         {
           "exchange": "BITVAVO",
           "pair": "BIRB-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "BLAST",
-      "exchanges": [
-        "GATE_EUROPE"
-      ],
-      "pairs": [
-        {
-          "exchange": "GATE_EUROPE",
-          "pair": "BLAST_USDC"
-        },
-        {
-          "exchange": "GATE_EUROPE",
-          "pair": "BLAST_EUR"
         }
       ]
     },
@@ -4170,22 +4154,6 @@
         {
           "exchange": "BITVAVO",
           "pair": "MEME-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "MENGO",
-      "exchanges": [
-        "GATE_EUROPE"
-      ],
-      "pairs": [
-        {
-          "exchange": "GATE_EUROPE",
-          "pair": "MENGO_USDC"
-        },
-        {
-          "exchange": "GATE_EUROPE",
-          "pair": "MENGO_EUR"
         }
       ]
     },
