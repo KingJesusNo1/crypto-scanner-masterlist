@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-11-12T09:43:59.178151+00:00",
+  "last_verified": "2026-11-12T18:13:44.759730+00:00",
   "coverage": "FULL",
   "statistics": {
-    "bitvavo_assets": 425,
+    "bitvavo_assets": 426,
     "gate_europe_assets": 215,
     "both_exchanges": 167,
-    "unique_assets": 473
+    "unique_assets": 474
   },
   "assets": [
     {
@@ -3667,6 +3667,18 @@
         {
           "exchange": "BITVAVO",
           "pair": "KNC-EUR"
+        }
+      ]
+    },
+    {
+      "symbol": "KNTQ",
+      "exchanges": [
+        "BITVAVO"
+      ],
+      "pairs": [
+        {
+          "exchange": "BITVAVO",
+          "pair": "KNTQ-EUR"
         }
       ]
     },
