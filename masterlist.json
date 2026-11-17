@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-11-17T03:46:57.797999+00:00",
+  "last_verified": "2026-11-17T13:14:31.779164+00:00",
   "coverage": "FULL",
   "statistics": {
-    "bitvavo_assets": 426,
+    "bitvavo_assets": 425,
     "gate_europe_assets": 215,
     "both_exchanges": 167,
-    "unique_assets": 474
+    "unique_assets": 473
   },
   "assets": [
     {
@@ -6982,18 +6982,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "XLM_USDC"
-        }
-      ]
-    },
-    {
-      "symbol": "XMN",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "XMN-EUR"
         }
       ]
     },
