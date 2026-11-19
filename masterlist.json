@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-11-19T12:56:14.338533+00:00",
+  "last_verified": "2026-11-19T21:27:11.593593+00:00",
   "coverage": "FULL",
   "statistics": {
-    "bitvavo_assets": 425,
+    "bitvavo_assets": 424,
     "gate_europe_assets": 215,
     "both_exchanges": 167,
-    "unique_assets": 473
+    "unique_assets": 472
   },
   "assets": [
     {
@@ -1702,18 +1702,6 @@
         {
           "exchange": "BITVAVO",
           "pair": "COW-EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "CPOOL",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "CPOOL-EUR"
         }
       ]
     },
