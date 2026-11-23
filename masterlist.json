@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-11-23T07:40:12.693341+00:00",
+  "last_verified": "2026-11-23T20:06:51.383320+00:00",
   "coverage": "FULL",
   "statistics": {
-    "bitvavo_assets": 424,
+    "bitvavo_assets": 423,
     "gate_europe_assets": 214,
     "both_exchanges": 166,
-    "unique_assets": 472
+    "unique_assets": 471
   },
   "assets": [
     {
@@ -3230,18 +3230,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "ID_USDC"
-        }
-      ]
-    },
-    {
-      "symbol": "IKA",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "IKA-EUR"
         }
       ]
     },
