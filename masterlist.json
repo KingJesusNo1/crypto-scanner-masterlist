@@ -1,11 +1,11 @@
 {
-  "last_verified": "2026-11-25T00:37:30.100116+00:00",
+  "last_verified": "2026-11-25T09:47:23.898457+00:00",
   "coverage": "FULL",
   "statistics": {
-    "bitvavo_assets": 423,
+    "bitvavo_assets": 422,
     "gate_europe_assets": 214,
     "both_exchanges": 166,
-    "unique_assets": 471
+    "unique_assets": 470
   },
   "assets": [
     {
@@ -89,18 +89,6 @@
         {
           "exchange": "GATE_EUROPE",
           "pair": "AAVE_EUR"
-        }
-      ]
-    },
-    {
-      "symbol": "ACE",
-      "exchanges": [
-        "BITVAVO"
-      ],
-      "pairs": [
-        {
-          "exchange": "BITVAVO",
-          "pair": "ACE-EUR"
         }
       ]
     },
